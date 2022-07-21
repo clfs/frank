@@ -13,9 +13,11 @@ detailed instructions.
 Frank is a light theme, and Frank Dark is a dark theme. The two themes inherit
 from VS Code's default Light and Dark themes respectively.
 
-![A VS Code window using the Frank theme to show Go code.](./images/frank-screenshot.png)
+![A VS Code window using the Frank theme to show Go code.][2]
 
-![A VS Code window using the Frank Dark theme to show Go code.](./images/frank-dark-screenshot.png)
+![A VS Code window using the Frank Dark theme to show Go code.][3]
 
 [0]: https://code.visualstudio.com/docs/getstarted/themes
 [1]: https://code.visualstudio.com/docs/getstarted/settings
+[2]: https://raw.githubusercontent.com/clfs/frank/main/images/frank-screenshot.png
+[3]: https://raw.githubusercontent.com/clfs/frank/main/images/frank-dark-screenshot.png
