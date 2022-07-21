@@ -1,0 +1,13 @@
+// A launch configuration that launches the Frank extension in a new window.
+{
+    "configurations": [
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Extension",
+            "request": "launch",
+            "type": "extensionHost"
+        }
+    ]
+}

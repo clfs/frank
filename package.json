@@ -1,0 +1,36 @@
+{
+    "bugs": {
+        "url": "https://github.com/clfs/frank/issues"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Frank",
+                "path": "./themes/frank-color-theme.json",
+                "uiTheme": "vs"
+            },
+            {
+                "label": "Frank Dark",
+                "path": "./themes/frank-dark-color-theme.json",
+                "uiTheme": "vs-dark"
+            }
+        ]
+    },
+    "description": "Frank is a VS Code theme without syntax highlighting.",
+    "displayName": "Frank",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "homepage": "https://github.com/clfs/frank/blob/main/README.md",
+    "license": "SEE LICENSE IN LICENSE",
+    "name": "frank",
+    "publisher": "clfs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/clfs/frank.git"
+    },
+    "version": "0.0.1"
+}
