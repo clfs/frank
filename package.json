@@ -25,6 +25,7 @@
         "vscode": "^1.69.0"
     },
     "homepage": "https://github.com/clfs/frank/blob/main/README.md",
+    "icon": "images/icon.png",
     "license": "SEE LICENSE IN LICENSE",
     "name": "frank",
     "publisher": "clfs",
