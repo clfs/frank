@@ -19,7 +19,7 @@
             }
         ]
     },
-    "description": "Frank is a VS Code theme without syntax highlighting.",
+    "description": "A theme without syntax highlighting.",
     "displayName": "Frank",
     "engines": {
         "vscode": "^1.69.0"
